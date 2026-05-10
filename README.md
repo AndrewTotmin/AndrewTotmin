@@ -11,8 +11,7 @@ My name is Andrey, I'm a QA Engineer with a frontend developer background
 
 ## Skills
 
-### Frontend:
-
+### Web Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,13 +25,17 @@ My name is Andrey, I'm a QA Engineer with a frontend developer background
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-brightgreen?style=for-the-badge&logo=charles&logoColor=%23161717&color=%2303fcfc)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 
-### Other Tools:
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Metabase](https://img.shields.io/badge/metabase-%23509EE3?style=for-the-badge&logo=kibana)
-![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Database:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### Other Tools:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
 
 ### Familiar With:
@@ -41,3 +44,5 @@ My name is Andrey, I'm a QA Engineer with a frontend developer background
 ![Proxyman](https://img.shields.io/badge/Proxyman-%235456e8?style=for-the-badge)
 ![MS Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Test it](https://img.shields.io/badge/Test%20it-%233437eb?style=for-the-badge)
+
