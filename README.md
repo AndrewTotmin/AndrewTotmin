@@ -1,4 +1,4 @@
-## Hi There! 👋
+## Hi there! 👋
 My name is Andrey, I'm a QA Engineer with a frontend developer background
 
 ## Statistics
@@ -15,7 +15,7 @@ My name is Andrey, I'm a QA Engineer with a frontend developer background
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Devtools](https://img.shields.io/badge/DevTools-%23f2d177?style=for-the-badge)
+![Devtools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-brightgreen?style=for-the-badge&logo=charles&logoColor=%23161717&color=%2303fcfc)
